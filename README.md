@@ -5,21 +5,33 @@ In this deliverable, I will create a Python script to visualize the weather of o
                                  ------WeatherPy-------
                                  
 1- Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
+
 Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code.
+
 Create a scatter plot to showcase the relationship between Latitude vs. Temperature.
+
 Create a scatter plot to showcase the relationship between Latitude vs. Humidity.
+
 Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness. 
+
 Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed.
 
 2- Compute Linear Regression for Each Relationship.
 
 Linear regression scatter plot for Northern Hemisphere: Temperature (C) vs. Latitude.
+
 Linear regression scatter plot for Southern Hemisphere: Temperature (C) vs. Latitude.
+
 Linear regression scatter plot for Northern Hemisphere: Humidity (%) vs. Latitude.
+
 Linear regression scatter plot for Southern Hemisphere: Humidity (%) vs. Latitude.
+
 Linear regression scatter plot for Northern Hemisphere: Cloudiness (%) vs. Latitude.
+
 Linear regression scatter plot for Southern Hemisphere: Cloudiness (%) vs. Latitude.
+
 Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude.
+
 Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude.
 
                             ----------VacationPy----------
