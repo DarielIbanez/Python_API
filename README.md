@@ -1,4 +1,4 @@
-# python-api-challenge
+# python-api
 
 In this deliverable, I will create a Python script to visualize the weather of over 500 cities of varying distances from the equator. I will use the citipy Python library, the OpenWeatherMap API Links, and my problem-solving skills to create a representative model of weather across cities.
 
